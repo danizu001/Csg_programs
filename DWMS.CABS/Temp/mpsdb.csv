@@ -1,0 +1,293 @@
+MPS Location,Report Name,Type,File Location,Coordinates
+1,Verify Prior Period Post Date,,,D17
+1A,Last date data was received.,,,D18
+1B,Run Usage Balancing Report. Verify AUR = MOU,,,D19
+1C,Client Final Approval of Usage Files,,,D20
+2,Verify From and To Cycle Dates,,,D21
+2A,From cycle date:,,,D22
+2B,To cycle date:,,,D23
+2C,Bill Date,,,D24
+4A,AUR History Stats Report,,,D32
+4B,Verify Bill Count,,,D33
+4C,File Count:,,,D34
+4D,Record Count:,,,D35
+4E,Verify Count:,,,D36
+4F,BAN Error Report,,,D37
+4G,Set Up New BANs,,,D38
+4H,CLLI Error Report,,,D39
+4I,Set Up New CLLIs,,,D40
+4J,CLLI Verification,,,D41
+4K,Exception Analysis Report,,,D42
+4L,MOU Entries Error Report,,,D43
+4M,NON MOU Entries Error Report,,,D44
+4N,Process Fix Files,,,D45
+4O,Install New Circuits,,,D46
+5,Analyze Files for Duplicate Processing and Non Processed Files,,,D47
+5A,Duplicate File Processing Report,,,D48
+5B,Error Files Duplicate Report,,,D49
+5C,Usage Verify by Size Report,,,D50
+5D,Usage By Day Report  (NOTIFY CLIENT OF MISSING USAGE),,,D51
+5E-3MONTHS,Usage By Day Report - 3 Month Period,,,D52
+5F,Copy period error files to the following month Q folder,,,D53
+5G,"Zip files, analyze non-zipped files",,,D54
+5H,"Renewals, Changes, and/or New Rate",,,D55
+5I,Disconnects,,,D56
+5J,Preliminary Balancing Report,,,D57
+5k,Duplicate File Processing Report by Name,,,D58
+5L,Update Rate Change Calculator,,,D59
+5M,Usage Variance Report,,,D60
+6,Usage Balancing Report,,,D61
+7,Enter MOU Exceptions,,,D62
+8,Enter/Post/Balance Payments,,,D63
+9,Enter/Post/Balance Adjustments.  Include backup documentation.,,,D64
+9A,Update OC&C Calculator,,,D65
+9B,"Enter OC&Cs, include backup documentation for entries.",,,D66
+9C,"Enter Adjustments, include backup documentation.",,,D67
+9D,Adjustment Review Report,,,D68
+9E,Post Adjustments,,,D69
+9F,Adjustments Not Posted Report,,,D70
+9G,Produce Bills for LPC Calculations,,,D71
+9H,Aged Trial Balance for Late Payment Charges,,,D72
+9I,Calculate Late Payment Charges,,,D73
+9J,Apply Late Payment Charges,,,D74
+9K,Produce Invoices with Late Payment Charges,,,D75
+9L,Save Late Payment Invoices to Reports Folder on K,,,D76
+9M,Validate Late Payment Charges/Invoices,,,D77
+10,Factor Change Audit Report,,,D78
+10A,Factor Check Report,,,D79
+10B,Factor Compare Report,,,D80
+11,SOC Change Audit Report,,,D81
+11A,Enter Per Call Charges,,,D82
+11B,Enter FGA Changes,,,D83
+11C,Usage Balancing-Company BAN Total Report (Post FGA),,,D84
+12,"PRODUCE BILLS: Switched & Facility Check To, From, and Bill Dates",,,D85
+12A,Bill Completion Check Report,,,D86
+12B,Switched/Facility BANS Trending Report - as needed,,,D87
+12C,Switched BANS Trending Report (qty type dtl),,,D88
+12D,Facility BANS Trending Report,,,D89
+12E,Delete Usage Where Appropriate,,,D90
+12F,Active BANs,,,D91
+12G,Validate Invoices with changes that impact billing,,,D92
+12H,Revenue Balancing,,,D93
+12I,Green Mountain Access,,,D94
+12J,Fairpoint Manual Usage Delete and Entry,,,D95
+12K,FUSF Tax - Calulate and Create OCC,,,D96
+12L,Reproduce ALL invoices to include changes,,,D97
+12M,Switched BANs Trending Report,,,D98
+12N,Facility BANs Trending Report,,,D99
+12O,Adjustments Report,,,D100
+12P,OCCs Report,,,D101
+12Q,Adjustments & OC&Cs Report,,,D102
+12R,Switched BANS Trending Report Validation *NEW*,,,D103
+13,Usage Balancing Report,,,D104
+13A,Do a Preliminary Balance prior to Thesholding,,,D105
+13B,Pre-ATB Report,,,D106
+13C,MMR by BAN,,,D107
+13D,Pre Transaction Summary Report,,,D108
+13E,Adjustment GL Trans by BAN Report,,,D109
+13F,OC&C GL Trans by BAN Report,,,D110
+13G,Zero Rated Traffic Report,,,D111
+13H,Late Payment Charges,,,D112
+13.I,FUSF Report,,,D113
+14,Thresholding Report,,,D114
+14A,BANs for Thresholding Report,,,D115
+14B,Perform the action of Thresholding,,,D116
+14C,Thresheld BANs Report,,,D117
+15,Delete Usage for All Invoices Meeting Client Criteria,,,D118
+15A,Identify BANs to Delete Usage,,,D119
+15B,Delete usage,,,D120
+15C,Manual PLU Adjustments,,,D121
+15D,Term 3 to 1 Report - Reciprocal Compensation,,,D122
+15E,Reproduce BANS that had usage deleted,,,D123
+15F,Validate BANs with Deleted Usage,,,D124
+15G,PDF Invoices,,,D125
+15H,Validate Invoices Saved to Reports Folder,,,D126
+15I,Deleted Usage AUR History Report,,,D127
+16,Usage Balancing Report,,,D128
+17,Preapproval From Client,,,D129
+17A,Email Preliminary Invoices to Client - Winzip,,,D130
+17B,Invoices Approved by Client,,,D131
+17C,Email Final Invoices,,,D132
+18,"Copy to ""Send to Client"" Folder",,,D133
+18A,AUR History Stats Report,,,D134
+18B,Bill Count,,,D135
+18C,BAN Error Report,,,D136
+18E,CLLI Error Report,,,D137
+18F,Sprint MOU Analysis for export,,,D138
+18G,MOU Entries Error Report,,,D139
+18H,Usage by Day Report,,,D140
+18I,Usage by Day Report  - 3 Month,,,D141
+18J,"Usage Balance - Company, Ban Totals",,,D142
+18K,Payment Report,,,D143
+18L,Adjustment Report,,,D144
+18M,OC&C Report,,,D145
+18N,Factor Change Audit Report,,,D146
+18O,SOC Change Audit Report,,,D147
+18P,SW BANs Trending Report,,,D148
+18Q,Threshold Report,,,D149
+18R,Copy the FUSF and Fairpoint to the Send To Client folder,,,D150
+18S,Billing Notes,,,D151
+18T,Preliminary Balancing Report,,,D152
+18U,Bill Count,,,D153
+18V,Zero Rated Traffic Report,,,D154
+19,"Balance Billing and Add Reports to ""Send to Client"" Folder",,,D155
+19A,Aged Trial Balance Report,,,D156
+19B,Aged Trial Balance for Export Report,,,D157
+19C,Bill Count Trending Report,,,D158
+19D,Combined Aged Trial Balance,,,D159
+19E,Msg MOU Rev with LPC,,,D160
+19F,MMR Report,,,D161
+19G,Message MOU Revenue by BAN Report,,,D162
+19H,Message MOU Revenue by CLLI Report,,,D163
+19I,Minutes and Revenue Billed By Rate Element Report,,,D164
+19J,"Messages and Minutes billed by FG, CIC",,,D165
+19K,MMR by Bill Date by Usg Pd by Direction by Prod,,,D166
+19L,MMR 3 Month,,,D167
+19M,Transaction Summary Report,,,D168
+19N,Transaction Summary,,,D169
+19O,Transaction Detail Listing,,,D170
+19P,Transaction Summary - Adjustments Only,,,D171
+19Q,Late Payment Charges,,,D172
+19R,Surcharges,,,D173
+19S,Revenue Analysis Report,,,D174
+19T,Billing Review,,,D175
+19U,BANS Trending Report,,,D176
+19V,Billed by Period Report,,,D177
+19W,Switched BANs Trending Report,,,D178
+19X,SW Usage Charges Summary Report,,,D179
+19Y,FUSF Report,,,D180
+19Z,GL Extract,,,D181
+19AA,FA BANS Trending Report,,,D182
+19AB,FA Charges Summary Report,,,D183
+19AC,Facility Circuit Charges Billed Disconnected,,,D184
+19AD,FA Circuit Charges by CIC by CLLI Report,,,D185
+19AE,Facility Charges Summary - Excel,,,D186
+19AF,Facility Circuit Charges Billed Disconnected,,,D187
+19AG,Number of Circuits,,,D188
+19AH,NECA:  NECA AS1000,,,D189
+19AI,NECA: NECA EC1050,,,D190
+19AJ,Create Switch Terminating Intrastate Revenue Report for NECA,,,D191
+19AK,Sprint MOU Analysis for export,,,D192
+19AL,Invoice Balance Report,,,D193
+19AM,Invoice Trending Report for export (qty type dtl),,,D194
+19AN,Invoice Trending Report for Export - dir - jur,,,D195
+19AO,Invoice Register Excel,,,D196
+19AP,Fulfillment BAN Report,,,D197
+19AQ,Fulfillment Form,,,D198
+19AR,Adjustment Report,,,D199
+19AS,OC&C Report,,,D200
+19AT,OC&C Detail - Unposted,,,D201
+19AU,Adjustment & OCC Report,,,D202
+19AV,Report 8,,,D203
+19AW,SOC Jurisdiction Report,,,D204
+19AX,AUR No Bill Master,,,D205
+19AY,AUR with Bill Master,,,D206
+19AZ,Billing Notes,,,D207
+19BA,Accounting Detailed Report,,,D208
+19BB,Accounting Report,,,D209
+19BC,Porting Recap,,,D210
+19BD,Billed by Period w/dir jur msg mou,,,D211
+19BE,Billed � Balance Report,,,D212
+19BF,Invoice Register Report,,,D213
+19BG,Aged Trial Balance_by period,,,D214
+19BH,Bus-Res Proration Report,,,D215
+19BI,PDF & Zip all invoices,,,D216
+19BJ,FUSC Charge By Circuit,,,D217
+19BK,OCC Billed Report,,,D218
+20,Bill Count Trending Report,,,D219
+20A,Aged Trial Balance Walk Forward,,,D220
+20B,Aged Trial Balance Report,,,D221
+20C,Transaction Summary Report - Bills Only,,,D222
+20D,FA Charges Summary Report,,,D223
+20E,FA Circuit Charges by CIC by CLLI,,,D224
+20F,Bill Count Trending Total for Facility,,,D225
+21,"Final QC Sign Off, Bills Ready to Send",,,D226
+21A,Senior Sign Off,,,D227
+21B,Number of Invoices,,,D228
+21C,,,,D229
+21D,Billing Done Date,,,D230
+22,"Final QC Sign Off, Bills Ready to Send",,,D231
+22A,Billing Reports sent Client for approval,,,D232
+22B,Client Final Approval of Billing,,,D233
+22C,PDF and ZIP invoices for each cycle,,,D234
+22D,Send Final Invoices to Client - Winzip,,,D235
+22E,Dashboard Verification,,,D236
+22F,Customer Volume Trending,,,D237
+23,Email the Fulfillment Report and Form,,,D238
+23A,Email the BILL COUNT notification to IntecSBInvoicing,,,D239
+23B,Invoice Delivery Report,,,D240
+24,Email Returned from Fulfillment,,,D241
+24A,Validate FF,,,D242
+25,Post Invoices: After reports returned from Fulfillment,,,D243
+26,AFTER Posting Invoices,,,D244
+26A,Usage Balancing-Company BAN Total Report,,,D245
+26B,Usage Clean-Up,,,D246
+26C,Roll Up ATB,,,D247
+26D,Roll Up Transaction Summary,,,D248
+26E,Roll Up SW/FAC Transaction Summary,,,D249
+26F,Roll Up RC Transaction Summary,,,D250
+26G,Successful Transmission of FTP Invoices Report,,,D251
+26H,PDF Bill Count,,,D252
+26I,Usage Balancing-Company BAN Total Report,,,D253
+26K,Send Billing Calendar for next month,,,D254
+26L,EOM_Aged Trial Balance for Export,,,D255
+26M,EOM_Invoice Balances Report_by Jurisdiction,,,D256
+26N,EOM_Payments,,,D257
+26O,EOM_Transaction Summary,,,D258
+26P,EOM_Bill Count Trending,,,D259
+26Q,EOM_Bill Count,,,D260
+26R,EOM_Trial Balance Walkforward,,,D261
+26S,Recip Comp Bill Reports & Invoices,,,D262
+26T,Facility Access Billing Reports & Invoices,,,D263
+26U,Switched Access Billing Reports & Invoices,,,D264
+26V,MTA CLLIs_on_BANS_3015_04-2016,,,D265
+26W,MTA SOCS_on_BANS_3015_04-2016,,,D266
+27,Returned Mail Log,,,D267
+5D,Usage By Day Report  (NOTIFY CLIENT OF MISSING USAGE),OSA,,
+5D,Usage By Day Report  (NOTIFY CLIENT OF MISSING USAGE),TTS,,
+5E,Usage By Day Report - 3 Month Period,OSA,,
+5E,Usage By Day Report - 3 Month Period,TTS,,
+8,Enter/Post/Balance Payments,OSA,,
+8,Enter/Post/Balance Payments,TTS,,
+12B,Switched/Facility BANS Trending Report - as needed,OSA,,
+12B,Switched/Facility BANS Trending Report - as needed,TTS,,
+12O,Adjustments Report,OSA,,
+12O,Adjustments Report,TTS,,
+12P,OC&Cs Report,OSA,,
+12P,OC&Cs Report,TTS,,
+19A,Aged Trial Balance Report,OSA,,
+19A,Aged Trial Balance Report,TTS,,
+19V,Billed by Period Report,OSA,,
+19V,Billed by Period Report,TTS,,
+20A,Aged Trial Balance Walk Forward,OSA,,
+20A,Aged Trial Balance Walk Forward,TTS,,
+19B,Aged Trial Balance Report -Export,OSA,,
+19B,Aged Trial Balance Report -Export,TTS,,
+19AL,Invoice Balance with LPC,OSA,,
+19AL,Invoice Balance with LPC,TTS,,
+19F,MMR Report,OSA,,
+19F,MMR Report,TTS,,
+19G,Msgs MOUs by Rev Report,OSA,,
+19G,Msgs MOUs by Rev Report,TTS,,
+19Q,Msg MOU Rev with LPC,OSA,,
+19Q,Msg MOU Rev with LPC,TTS,,
+19H,Msgs MOUs by CLLI Report,OSA,,
+19H,Msgs MOUs by CLLI Report,TTS,,
+19M,Transaction Summary Report,OSA,,
+19M,Transaction Summary Report,TTS,,
+19W,Switched BAN Trending Report,OSA,,
+19W,Switched BAN Trending Report,TTS,,
+19S,Revenue Analysis,OSA,,
+19S,Revenue Analysis,TTS,,
+1,MPS,JAN,,
+2,MPS,FEB,,
+3,MPS,MAR,,
+4,MPS,APR,,
+5,MPS,MAY,,
+6,MPS,JUN,,
+7,MPS,JUL,,
+8,MPS,AUG,,
+9,MPS,SEP,,
+10,MPS,OCT,,
+11,MPS,NOV,,
+12,MPS,DEC,,
